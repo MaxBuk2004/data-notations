@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>Tomasz Lis</sender>
+    <recipient>Marek Kowalski</recipient>
+    <subject>Opłata za zakup</subject>
+    <message>Proszę dokonać opłaty za zakup</message>
+</email>

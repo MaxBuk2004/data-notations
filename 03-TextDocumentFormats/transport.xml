@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportation>
+    <vehicle type="Car" fuel="Petrol">
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <passengerCapacity>5</passengerCapacity>
+        <color>Silver</color>
+    </vehicle>
+
+    <vehicle type="Bicycle" gear="21-speed">
+        <brand>Giant</brand>
+        <model>Escape 3</model>
+        <passengerCapacity>1</passengerCapacity>
+        <color>Black</color>
+    </vehicle>
+
+    <vehicle type="Bus" fuel="Diesel">
+        <brand>Mercedes-Benz</brand>
+        <model>Citaro</model>
+        <passengerCapacity>40</passengerCapacity>
+        <color>Blue</color>
+    </vehicle>
+</transportation>
